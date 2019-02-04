@@ -1,4 +1,4 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
+ Information Security and Quality Assurance
 ------
 
 Project Issue Tracker
@@ -8,4 +8,5 @@ Project Issue Tracker
 3) You will add any security features to `server.js`
 4) You will create all of the functional tests in `tests/2_functional-tests.js`
 
-
+Example website:
+https://issue-tracker-v2a.glitch.me/
